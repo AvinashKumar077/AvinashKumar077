@@ -3,11 +3,7 @@
 <h3 align="center">A passionate android developer from India</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkumar077&label=Profile%20views&color=0e75b6&style=flat" alt="avinashkumar077" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashkumar077" alt="avinashkumar077" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@avinash87747316" target="blank"><img src="https://img.shields.io/twitter/follow/@avinash87747316?logo=twitter&style=for-the-badge" alt="@avinash87747316" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development in Kotlin**
 
