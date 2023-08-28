@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/g.dev/avinashkumar077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="g.dev/avinashkumar077" height="30" width="40" /></a>
+<a href="https://g.dev/avinashkumar077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="g.dev/avinashkumar077" height="30" width="40" /></a>
 <a href="https://twitter.com/@avinash87747316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@avinash87747316" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/avinash-kumar-avi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/avinash-kumar-avi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/avinash kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="avinash kumar" height="30" width="40" /></a>
