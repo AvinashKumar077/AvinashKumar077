@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fandroid-developers.googleblog.com%2F2019%2F10%2Fandroid-developer-challenge.html&psig=AOvVaw2U_cmuKDZ5fpP1LSzjyKrp&ust=1693335908891000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCkrvmFgIEDFQAAAAAdAAAAABAE)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">A passionate android developer from India</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
